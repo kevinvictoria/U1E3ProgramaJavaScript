@@ -1,0 +1,20 @@
+.btn{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border: #000 double 4px;
+    margin: 10px 10px;
+    padding: 10px 10px;
+}
+
+.btn:hover{
+    background-color: #6699FF;
+    color: #fff;
+    transition: 1ms;
+}
+
+.section{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+
+}
